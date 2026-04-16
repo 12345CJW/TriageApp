@@ -5,7 +5,7 @@
 The Earthquake Triage System is a Java command-line application that simulates how a field hospital prioritizes patients after a major earthquake.
 In disaster situations, patients are not treated in the order they arrive. Instead, they are treated based on the severity of their condition. This program models that behavior using a Priority Queue.
 
-# Features
+# Features:
 ➕ Add patients with name, age, injury, and priority
 📋 Display patients in correct triage order
 🏥 Treat (remove) the highest-priority patient
