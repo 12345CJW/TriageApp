@@ -29,12 +29,12 @@ Least urgent cases
 
 # Project Structure
 EarthquakeTriageSystem/
-'''
+```
 Patient.java              # Stores patient data
 TriageComparator.java    # Defines sorting rules
 TriageSystem.java        # Handles logic and queue
 EarthquakeTriageSystem.java  # Main program (CLI)
-'''
+```
 
 # Class Roles
 1. Patient → Stores patient information
